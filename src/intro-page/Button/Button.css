@@ -1,0 +1,22 @@
+button {
+    background-color: var(--Green);
+    padding: 14px;
+    width: 460px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+}
+
+button:hover {
+
+    cursor: pointer;
+    border-bottom: 2.5px solid rgb(68, 112, 68);
+}
+
+@media screen and (max-width: 966px) {
+    button {
+        width: 400px;
+    }
+
+}

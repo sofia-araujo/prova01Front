@@ -1,0 +1,22 @@
+.page-info {
+    text-align: left;
+    width: 360px;
+}
+
+h1 {
+    color: #fff;
+    font-size: 42px;
+}
+
+.page-text {
+    color: rgb(219, 219, 219);
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 966px) {
+   .page-info {
+    text-align: center;
+   }
+
+}

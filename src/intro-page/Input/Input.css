@@ -1,0 +1,14 @@
+input {
+    padding: 14px 20px;
+    width: 470px;
+    border-radius: 6px;
+    border: 1px solid rgb(153, 153, 153);
+    font-weight: bold;
+}
+
+@media screen and (max-width: 966px) {
+    input {
+        width: 400px;
+    }
+
+}
